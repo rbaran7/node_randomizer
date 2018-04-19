@@ -1,0 +1,17 @@
+{
+  "name": "noderandomizer",
+  "version": "1.0.0",
+  "description": "Node.js app that creates a bunch of random data and writes it to a json file",
+  "main": "random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roman baran",
+  "license": "ISC",
+  "devDependencies": {
+    "random-fixture-data": "2.0.19"
+  },
+  "dependencies": {
+    "jsonfile": "4.0.0"
+  }
+}
