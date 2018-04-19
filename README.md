@@ -13,6 +13,6 @@
 
 3. Run: <code>npm install</code> and wait for the dependencies to download
 
-4. Out of the box the json file wil be populated with 1000 random data points for name, alias, nationality, age, characteristics, and other. If you would like a different number or type of random values make changes in the random.js file (use the random-data-fixture npm page for more information about options).
+4. Out of the box the json file wil be populated with 1000 random data points for name, username, country, age, description, and email. If you would like a different number or type of random values make changes in the random.js file (use the random-data-fixture npm page for more information about options).
 
 5. Enjoy your randomized json file.
